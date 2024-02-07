@@ -6,7 +6,8 @@ const gifsInfo = [
     { id: 'meuGif2', intervalo: 10000 },
     { id: 'meuGif3', intervalo: 10000 }, 
     { id: 'meuGif4', intervalo: 11000 },
-    { id: 'meuGif5', intervalo: 12000 }
+    { id: 'meuGif5', intervalo: 12000 },
+    { id: 'meuGif6', intervalo: 18000 }
 ];
 
 menu.addEventListener('click', () => {
