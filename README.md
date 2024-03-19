@@ -6,7 +6,7 @@ Minha primeira página HTML!
 | -------------  | --- |
 | :sparkles: Nome        | Portfólio
 | :label: Tecnologias | HTML, CSS e Javascript
-| :rocket: URL         | https://portfolio-git-main-bullsyeswild.vercel.app/
+| :rocket: URL         | https://portfolio-gules-eight-81.vercel.app/
 
 
 https://github.com/Bullsyeswild/Portfolio/assets/127852691/228cc410-60f6-474e-8ee7-54765bc122cd
